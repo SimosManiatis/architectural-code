@@ -13,20 +13,15 @@ The repository is organized as follows:
 - `src/`: Contains a python script thats is already implemented in the grasshopper file
 - `gh/`: Grasshopper files
 
-This repository provides access to the three main components of the project:
-
-**Required Files:**
-  • [assembly_sequence_and_cutting_stock.gh](https://github.com/SimosManiatis/multi-robot-assembly/blob/main/gh/assembly_sequence/assembly_sequence_and_cutting_stock.gh)
-
-2) **The Structure Design & Optimisation Algorithm**
+---
 
 **Required Files:**
 
 - **Rhinoceros File**  
   Download from [https://drive.google.com/file/d/1gOhupwzonQVASe3o3d8YWpsC5VU8Jp4D/view?usp=sharing](https://drive.google.com/file/d/1gOhupwzonQVASe3o3d8YWpsC5VU8Jp4D/view?usp=sharing)
 
-- **RoboDk**  
-  Download from [https://robodk.com/download](https://robodk.com/download)
+- **Video**  
+  Watch on [Architectural Code](https://youtu.be/c995fRU14qY)
 
 - **Rhinoceros & RoboDk Files**  
   Download from [Google Drive](https://drive.google.com/drive/folders/1hj0ywdX9TM16v8JOCXHmmRV7WWfTj7M6?usp=drive_link)
