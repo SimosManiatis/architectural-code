@@ -21,47 +21,13 @@ The repository is organized as follows:
   Download from [https://drive.google.com/file/d/1gOhupwzonQVASe3o3d8YWpsC5VU8Jp4D/view?usp=sharing](https://drive.google.com/file/d/1gOhupwzonQVASe3o3d8YWpsC5VU8Jp4D/view?usp=sharing)
 
 - **Video**  
-  Watch on [Architectural Code](https://youtu.be/c995fRU14qY)
+  Watch on YouTube [Architectural Code](https://youtu.be/c995fRU14qY)
 
-- **Rhinoceros & RoboDk Files**  
-  Download from [Google Drive](https://drive.google.com/drive/folders/1hj0ywdX9TM16v8JOCXHmmRV7WWfTj7M6?usp=drive_link)
-
-- **GH_Linear_Cutting**  
-  Download .gha file from [https://github.com/AlexanderMorozovDesign/GH_Linear_Cutting](https://github.com/AlexanderMorozovDesign/GH_Linear_Cutting)
-
-- **Karamba**  
-  Download from [https://karamba3d.com/](https://karamba3d.com/)
-
-- **Hops**  
-  Download from [https://www.food4rhino.com/en/app/hops](https://www.food4rhino.com/en/app/hops)
-
-- **Telepathy**  
-  Download from [https://www.food4rhino.com/en/app/telepathy](https://www.food4rhino.com/en/app/telepathy)
-
-- **Human**  
-  Download from [https://www.food4rhino.com/en/app/human](https://www.food4rhino.com/en/app/human)
-
-- **Fox**  
-  Download from [https://www.food4rhino.com/en/app/fox](https://www.food4rhino.com/en/app/fox)
-
-- **Pufferfish**  
-  Download from [https://www.food4rhino.com/en/app/pufferfish](https://www.food4rhino.com/en/app/pufferfish)
+- **Twinmotion File**  
+  Download from [Google Drive](https://drive.google.com/file/d/1JOfTQlxVq7U-B_oaJxVArUEw-qUVSdWG/view?usp=sharing)
 
 ---
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   gh repo clone SimosManiatis/multi-robot-assembly
-
-2. Install Pre-requisites
-**Rhinoceros 8,RoboDk & Karamba need licenses ro run.**
-
-### Contact
-
 For questions or support, please contact:
-**Email** : smaniatis@tudelft.nl , P.Feijen@student.tudelft.nl, s.a.bentvelsen@student.tudelft.nl, A.Mavrotas@student.tudelft.nl
+**Email** : smaniatis@tudelft.nl
 
-### Citation 
-[GH_Linear_Cutting GitHub Repository](https://github.com/AlexanderMorozovDesign/GH_Linear_Cutting)
